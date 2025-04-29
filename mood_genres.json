@@ -1,0 +1,83 @@
+{
+  "happy": [
+    "upbeat pop",
+    "dance pop",
+    "summer hits",
+    "feel good",
+    "party anthems",
+    "happy pop",
+    "disco",
+    "funk"
+  ],
+  "sad": [
+    "indie folk",
+    "acoustic",
+    "sad songs",
+    "piano ballads",
+    "emotional",
+    "heartbreak",
+    "melancholy",
+    "soulful"
+  ],
+  "angry": ["rock", "metal"],
+  "relaxed": [
+    "chillhop",
+    "ambient",
+    "meditation",
+    "yoga",
+    "spa music",
+    "nature sounds",
+    "jazz",
+    "smooth jazz"
+  ],
+  "anxious": [
+    "lo-fi",
+    "piano",
+    "calming",
+    "meditation",
+    "white noise",
+    "rain sounds",
+    "binaural beats",
+    "zen"
+  ],
+  "excited": [
+    "electronic",
+    "EDM",
+    "dance",
+    "house",
+    "techno",
+    "trance",
+    "festival",
+    "party"
+  ],
+  "nostalgic": [
+    "classic rock",
+    "retro",
+    "80s",
+    "90s",
+    "throwback",
+    "oldies",
+    "vintage",
+    "golden oldies"
+  ],
+  "romantic": [
+    "R&B",
+    "soul",
+    "love songs",
+    "romantic",
+    "slow jams",
+    "ballads",
+    "jazz standards",
+    "smooth soul"
+  ],
+  "neutral": [
+    "indie",
+    "alternative",
+    "chill",
+    "easy listening",
+    "background music",
+    "study",
+    "work",
+    "focus"
+  ]
+} 
